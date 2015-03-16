@@ -1,0 +1,1 @@
+fortunes server for add random signatures in email or get fun from random quotes
